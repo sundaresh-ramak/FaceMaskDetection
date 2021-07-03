@@ -3,5 +3,8 @@
 __pycache__
 data/
 edited_scripts/
-scripts_working/
+scripts_working/*.h5
+scripts_working/*.docx
+scripts_working/*.pdf
+scripts_working/*.zip
 venv/

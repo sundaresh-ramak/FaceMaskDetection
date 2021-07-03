@@ -1,0 +1,7 @@
+opencv-python
+numpy
+sklearn
+tqdm
+xmltodict
+matplotlib
+tensorflow
