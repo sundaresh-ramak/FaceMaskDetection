@@ -1,0 +1,7 @@
+.idea
+.ipynb_checkpoints
+__pycache__
+data/
+edited_scripts/
+scripts_working/
+venv/
